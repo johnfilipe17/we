@@ -11,3 +11,26 @@ img{
     height: 550px;
     display: grid;
 }
+head {
+    text-align: center;  
+    border: 12px solid black; 
+}
+
+div {
+    background-color: blue;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 45px;
+}
+
+footer{
+    
+    font-size: 1.2em;
+    padding: 25px 50px;
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blue;
+    color: whitesmoke;
+}
